@@ -2,7 +2,10 @@ package stacksAndQueues;
 
 import java.util.ArrayDeque;
 import java.util.Scanner;
-
+/*
+Write a program that reads N integers from the console and reverses them using a stack.
+Use the ArrayDeque<Integer> class. Just put the input numbers in the stack and pop them. 
+*/
 public class ReverseNumbersWIthAStack {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
