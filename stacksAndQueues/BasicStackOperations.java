@@ -2,7 +2,13 @@ package stacksAndQueues;
 
 import java.util.ArrayDeque;
 import java.util.Scanner;
+/*
+You will be given an integer N representing the number of elements to push onto the stack,
+an integer S representing the number of elements to pop from the stack and finally an integer X,
+an element that you should check whether is present in the stack. If it is, print true on the console.
+If it’s not, print the smallest element currently present in the stack.
 
+*/
 public class BasicStackOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
